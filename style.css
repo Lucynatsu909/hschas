@@ -48,7 +48,7 @@ nav ul li a{
     left: 50%;
     transform: translateX(-50%);
 }
-   embed{
+.scan embed{
        width: 900px;
        height: 720px;
        margin-left:30px:
