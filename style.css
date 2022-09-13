@@ -42,3 +42,14 @@ nav ul li a{
     border-collapse: collapse; 
     text-align: center; 
 }
+.scan{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+   embed{
+       width: 900px;
+       height: 720px;
+       margin-left:30px:
+}
